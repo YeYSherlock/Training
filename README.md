@@ -1,3 +1,3 @@
 # Training
 
-Practicing git commands with this
+Practicing git commands with this!
